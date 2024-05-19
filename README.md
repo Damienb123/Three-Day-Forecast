@@ -115,6 +115,7 @@ Host: example.com
 
 ## Reference
 
+For needed thorough analysis of the project, please refer to the attached .pdf documenatation file.
 
 ## Conclusion
 The Three-Day Forecast API provides essential weather information for the upcoming days, allowing users to prepare and plan accordingly. The API is straightforward to use, returning detailed weather data in a simple JSON format.
