@@ -6,7 +6,7 @@
 2. [API Endpoint](#API-Endpoint)
 3. [Request](#Request)
 4. [Response](#Response)
-  - Response Example
+	- Response Example
 5. [Field Descriptions](#Field-Descriptions)
 6. [Example Usage](#Example-Usage)
 7. [Reference](#Reference)
